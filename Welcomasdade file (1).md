@@ -12,7 +12,7 @@ repositories: links for repos for different implementations
 <summary>Repositories</summary>
    Here are the links for repositories for various implementations of IDS components.
 <ul>
-<li>AppStore</li>
+<li>###AppStore</li>
 <ul>
 <li>ClearingHouse</li>
 <li> nested list 2</li>
@@ -21,7 +21,6 @@ repositories: links for repos for different implementations
 </ul>
 </details>
 
-   
 ## Components
 AppStore
 ClearingHouse

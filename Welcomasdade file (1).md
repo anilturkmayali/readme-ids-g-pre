@@ -5,52 +5,52 @@ This is the place where we can discuss and develop improvements in repositories 
 
 Anybody who is interested in expressing their ideas and/or would like to be part of IDS developers community, are welcome to join and contribute.
 
+## What is Inside? 
 
-## Architecture/Overview
+### Architecture/Overview
+Praesent et mi ut libero vehicula vehicula. Cras dignissim purus lacus, condimentum maximus dui pulvinar at. In hac habitasse platea dictumst. Aenean vehicula orci sed diam sagittis, eget vestibulum massa fringilla. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras at purus nec erat pretium pretium at nec nisl. Proin lacinia sem et felis rhoncus pretium. Morbi tempus tristique metus.
+
 references: links to external specs
 relevants: links to relevant IDS-documents
 repositories: links for repos for different implementations
 
-<details>
-<summary>Repositories</summary>
-   Here are the links for repositories for various implementations of IDS components.
-<ul>
-<li>AppStore</li>
-<ul>
-<li>ClearingHouse</li>
-<li> nested list 2</li>
-</ul>
-<li> markdown list 2</li>
-</ul>
-</details>
+   **Useful Links**
+   IDS Reference Architecture Model
+   Specification: IDS Meta Data Broker
+   Specification: IDS Clearing House
 
-## Components
-**AppStore**
-hahahaha
-ClearingHouse
-Connector
-Identity Provider
-Certificate Authority
-DAPS
-ParIS
-MetaDataBroker
-Communication
+   **Repositories**
+   A
+   B
+   C
+
+### Components
+   AppStore
+   ClearingHouse
+   Connector
+   Identity Provider
+      Certificate Authority
+      DAPS
+      ParIS
+   MetaDataBroker
+   
+### Communication
 Message Structure/Format
 Message Types
 Protocols (Examples for implementing the messages)
 IDSCP
 IDS-LDP
-InfoModel -> as a reference to the IM-Repo with a short description
 
-## UsageControl
+### InfoModel -> as a reference to the IM-Repo with a short description
+
+### UsageControl
 Policies
 Enforcement
--   Glossary: file with all relevant IDS terms
+
+### Glossary: file with all relevant IDS terms
     -   shortcuts: file with all shortcuts
--   Handbook
--   Resources:
+
+### Handbook
+
+### Resources:
     -   IDS-G-Logo
-
-
-
-

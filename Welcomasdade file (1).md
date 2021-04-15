@@ -25,7 +25,8 @@ repositories: links for repos for different implementations
 </details>
 
 ## Components
-<b>AppStore</b>
+**AppStore**
+hahahaha
 ClearingHouse
 Connector
 Identity Provider

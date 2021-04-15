@@ -1,7 +1,10 @@
 # IDS-G-pre
 
 ## About the Project
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempor velit et consectetur molestie. Ut nec ultrices odio. Quisque ac lectus placerat tortor placerat pretium. Donec bibendum dictum libero ac lobortis. Aenean urna urna, feugiat vitae porta eu, vulputate vitae turpis. Proin facilisis bibendum lectus ut congue. Phasellus ac sem at massa ultricies maximus nec quis ex. Morbi erat orci, vulputate quis iaculis sit amet, lacinia ac est.
+IDS-G-pre is the place where we can discuss and develop improvements in repositories of International Data Spaces. Our aim is to reach the highest level of quality via continous feedback, contributions, implementations and reviews from the community. As collective production, innovation through collaboration and transparent working environment are among the key values of IDSA, we endeavor to provide a common ground to discuss, democratize and enhance the ongoing development processes by following the Open Source path.
+
+Anybody who is interested in expressing their ideas and/or would like to be part of IDS developers community, are welcome to join and contribute.
+
 
 ## Architecture/Overview
 references: links to external specs
@@ -12,7 +15,7 @@ repositories: links for repos for different implementations
 <summary>Repositories</summary>
    Here are the links for repositories for various implementations of IDS components.
 <ul>
-###<li>AppStore</li>
+<li>AppStore</li>
 <ul>
 <li>ClearingHouse</li>
 <li> nested list 2</li>

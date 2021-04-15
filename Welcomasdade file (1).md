@@ -1,14 +1,15 @@
-﻿# IDS-G-pre
+# IDS-G-pre
+
+## About the Project
+IDS-G-pre is the .....
 
 <details>
-<summary>How do I dropdown?</summary>
+<summary>Table of Contents</summary>
 <br>
 This is how you dropdown.
 </details>
 
 
-## About the Project
-IDS-G-pre is the 
 
 ## Architecture/Overview
 references: links to external specs

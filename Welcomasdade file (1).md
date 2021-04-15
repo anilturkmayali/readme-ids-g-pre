@@ -4,7 +4,7 @@
 IDS-G-pre is the .....
 
 <details>
-<summary>*Table of Contents*</summary>
+<summary>**Table of Contents**</summary>
 <br>
 This is how you dropdown.
 </details>

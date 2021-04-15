@@ -1,7 +1,7 @@
 # IDS-G-pre
 
 ## About the Project
-IDS-G-pre is the place where we can discuss and develop improvements in repositories of International Data Spaces. Our aim is to reach the highest level of quality via continous feedback, contributions, implementations and reviews from the community. As collective production, innovation through collaboration and transparent working environment are among the key values of IDSA, we endeavor to provide a common ground to discuss, democratize and enhance the ongoing development processes by following the Open Source path.
+This is the place where we can discuss and develop improvements in repositories of International Data Spaces. Our aim is to reach the highest level of quality via continous feedback, contributions, implementations and reviews from the community. As collective production, innovation through collaboration and transparent working environment are among the key values of IDSA, we endeavor to provide a common ground to discuss, democratize and enhance the ongoing development processes by following the Open Source path.
 
 Anybody who is interested in expressing their ideas and/or would like to be part of IDS developers community, are welcome to join and contribute.
 

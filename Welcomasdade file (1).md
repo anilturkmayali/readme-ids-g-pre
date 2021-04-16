@@ -19,17 +19,31 @@ Reference Architecture Model of International Data Spaces (IDS-RAM) sets the sta
    [IDS-Connector-Framework](https://github.com/International-Data-Spaces-Association/IDS-Connector-Framework)
    
    [IDS-ConfigurationManager](https://github.com/International-Data-Spaces-Association/IDS-ConfigurationManager)
-   [IDS-ConfigurationManager-UI](https://github.com/International-Data-Spaces-Association/IDS-ConfigurationManager-UI)
-   [IDS-Enterprise-Integration-Connector](https://github.com/International-Data-Spaces-Association/IDS-Enterprise-Integration-Connector)
-   [metadata-broker-open-core](https://github.com/International-Data-Spaces-Association/metadata-broker-open-core)
-   [IDS-Messaging-Services](https://github.com/International-Data-Spaces-Association/IDS-Messaging-Services)
-   [InformationModel](https://github.com/International-Data-Spaces-Association/InformationModel)
-   [DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
-   [DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
-   [DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
-   [DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
    
-   C
+   [IDS-ConfigurationManager-UI](https://github.com/International-Data-Spaces-Association/IDS-ConfigurationManager-UI)
+   
+   [IDS-Enterprise-Integration-Connector](https://github.com/International-Data-Spaces-Association/IDS-Enterprise-Integration-Connector)
+   
+   [metadata-broker-open-core](https://github.com/International-Data-Spaces-Association/metadata-broker-open-core)
+   
+   [IDS-Messaging-Services](https://github.com/International-Data-Spaces-Association/IDS-Messaging-Services)
+   
+   [InformationModel](https://github.com/International-Data-Spaces-Association/InformationModel)
+   
+   [Java-Representation-of-IDS-Model](https://github.com/International-Data-Spaces-Association/Java-Representation-of-IDS-Information-Model)
+   
+   [Trusted-Connector](https://github.com/International-Data-Spaces-Association/trusted-connector)
+   
+   [Trusted-uConnector](https://github.com/International-Data-Spaces-Association/Trusted-uConnector)
+   
+   [idscp2-jvm](https://github.com/International-Data-Spaces-Association/idscp2-jvm)
+   
+   [idscp2-rust](https://github.com/International-Data-Spaces-Association/idscp2-rust)
+   
+   [oss-daps](https://github.com/International-Data-Spaces-Association/oss-daps)
+   
+   [idscp2-rust](https://github.com/International-Data-Spaces-Association/idscp2-rust)
+   
 
 ### Components
    AppStore

@@ -40,11 +40,7 @@ You can find the latest version of [IDS-RAM on IDSA Website](https://internation
    
    [metadata-broker-open-core](https://github.com/International-Data-Spaces-Association/metadata-broker-open-core)
    is the repository of the open-core reference implementation of the IDS Metadata Broker. 
-   
-   
-   [InformationModel](https://github.com/International-Data-Spaces-Association/InformationModel)
-   implements the IDS reference architecture as an extensible, machine readable and technology independent data model.
-   
+  
    
    [Java-Representation-of-IDS-Information-Model](https://github.com/International-Data-Spaces-Association/Java-Representation-of-IDS-Information-Model)
    is the representation of IDS Information Model in Java.
@@ -88,13 +84,19 @@ The Identity Provider is responsible for issuing technical identities to parties
 **MetaDataBroker** is an intermediary that stores and manages information about the data sources available in the IDS. It is non-exclusive as multiple Brokers may coexist (e.g. for different application domains or sub-user groups within one data space). The activities of operator of the metadata broker, referred to as the Broker Service Provider mainly focus on receiving and providing metadata.
    
 ### Communication
-Message Structure/Format
-Message Types
-Protocols (Examples for implementing the messages)
-IDSCP
-IDS-LDP
+The IDSCP protocol establishes a secure peer-to-peer connection that provides mutual remote attestation and guarantees confidentiality, integrity, authenticity and perfect forward secrecy. It is designed to be very modular and thus flexible regarding the underlying communication channels and mechanisms for remote attestation.
 
-### InfoModel -> as a reference to the IM-Repo with a short description
+  * Message Structure/Format
+  * Message Types
+  * Protocols (Examples for implementing the messages)
+  * IDSCP
+  * IDS-LDP
+
+### IDS Information Model
+The Information Model defines a domain-agnostic lingua franca of the International Data Spaces. It constitutes a central agreement shared by its participants and components, facilitating compatibility and interoperability. It primarily aims at the description, publication and discovery of data products and data processing software within the International Data Spaces and implements the IDS reference architecture as an extensible, machine readable and technology independent data model.
+
+[InformationModel Repository](https://github.com/International-Data-Spaces-Association/InformationModel)
+   
 
 ### UsageControl
 Policies

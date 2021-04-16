@@ -10,10 +10,7 @@ Anybody who is interested in expressing their ideas and/or would like to be part
 ### Architecture/Overview
 Reference Architecture Model of International Data Spaces (IDS-RAM) sets the standard for building data-driven ecosystems, products and services. Here is where you will find everything you need to know to get started. IDS-RAM comprises the standards for secure and sovereign data exchange, certification and governance for across Europe and around the world. 
 
-   **Useful Links**
-   [IDS Reference Architecture Model](https://internationaldataspaces.org/wp-content/uploads/IDS-Reference-Architecture-Model-3.0-2019.pdf)
-   Specification: IDS Meta Data Broker
-   Specification: IDS Clearing House
+You can find the latest version of [IDS-RAM on IDSA Website](https://internationaldataspaces.org/publications/most-important-documents/) along with [white papers](https://internationaldataspaces.org/publications/papers-studies/) listing the specifications of IDS components. 
 
    **Repositories**
    
@@ -33,16 +30,16 @@ Reference Architecture Model of International Data Spaces (IDS-RAM) sets the sta
    is the user interface for the IDS Configurationmanager.
    
    
+   [IDS-Messaging-Services](https://github.com/International-Data-Spaces-Association/IDS-Messaging-Services)
+   Also known as "Unified Library" or "framework-library", the aim of IDS-Messaging-Services is to simplify the development of an IDS-Connector.
+   
+   
    [IDS-Enterprise-Integration-Connector](https://github.com/International-Data-Spaces-Association/IDS-Enterprise-Integration-Connector)
    Lightweight Interoprable Connector Architecture for IDS-Communicatons.
    
    
    [metadata-broker-open-core](https://github.com/International-Data-Spaces-Association/metadata-broker-open-core)
-   is the repository of the open-core reference implementation of the IDS Metadata Broker.
-   
-   
-   [IDS-Messaging-Services](https://github.com/International-Data-Spaces-Association/IDS-Messaging-Services)
-   Also known as "Unified Library" or "framework-library", the aim of IDS-Messaging-Services is to simplify the development of an IDS-Connector.
+   is the repository of the open-core reference implementation of the IDS Metadata Broker. 
    
    
    [InformationModel](https://github.com/International-Data-Spaces-Association/InformationModel)

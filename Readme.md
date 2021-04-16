@@ -99,8 +99,10 @@ The Information Model defines a domain-agnostic lingua franca of the Internation
    
 
 ### UsageControl
-Policies
-Enforcement
+Data usage control in the IDS basically works by attaching data usage policy information to data being exchanged and continuously controlling the way data is processed, aggregated, or forwarded to other endpoints. Data usage policies support developers and administrators in setting up correct data flows. At runtime, data usage control enforcement prevents IDS Connectors from handling data in an undesired way. Thus, data usage control is both a tool for system integrators to ensure they are not building an architecture that violates security requirements, and an audit mechanism providing evidence of compliant data usage.
+
+More information on data usage control in IDS can be found in the position paper [Usage Control in the International Data Spaces](https://internationaldataspaces.org/wp-content/uploads/IDSA-Position-Paper-Usage-Control-in-the-IDS-V3.0.pdf)
+
 
 ### Glossary: file with all relevant IDS terms
     -   shortcuts: file with all shortcuts

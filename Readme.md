@@ -1,7 +1,23 @@
 # About the Project
-This is the place where we can discuss and develop improvements in repositories of International Data Spaces. Our aim is to reach the highest level of quality via continous feedback, contributions, implementations and reviews from the community. As collective production, innovation through collaboration and transparent working environment are among the key values of IDSA, we endeavor to provide a common ground to discuss, democratize and enhance the ongoing development processes by following the Open Source path.
+IDS-G focuses on documentation and specifications for developing and testing IDS based solutions. This includes technical documentation and interface descriptions. This is also the place where we discuss and collaboratively develop components of International Data Spaces. Our aim is to reach the highest level of quality via continous feedback, contributions, implementations and reviews from the community. As collective production, innovation through collaboration and transparent working environment are among the key values of IDSA, we endeavor to provide a common ground to discuss, democratize and enhance the ongoing development processes by following the Open Source path.
 
 Anybody who is interested in expressing their ideas and/or would like to be part of IDS developers community, are welcome to join and contribute.
+
+
+<details><summary> New to IDS? We prepared a list of documents to get introduced to IDS. Please open the dropdown and check these out! </summary>
+<br>
+<ul>
+<li> 1. <a href="https://www.internationaldataspaces.org/publications/sharing-data-while-keeping-data-ownership-the-potential-of-ids-for-the-data-economy/">Executive Summary of the IDSA</a></li>   
+<li> 2. <a href="https://internationaldataspaces.org/wp-content/uploads/IDSA-Brochure-IDS-Standard-for-Data-Sovereignty-Indispensible-Element-for-Data-Ecosystems.pdf"> IDS as a Standard for Data Sovereignty and an Indispensable Element of Data Ecosystems</a></li> 
+<li> 3. <a href="https://internationaldataspaces.org/wp-content/uploads/IDSA-Infographic-Data-Sharing-in-a-Data-Space.pdf">Infographic: Understanding the IDS (Lite version)</a></li>
+<li> 4. <a href="https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/IDSA-Infografik-English.pdf">Infographic: Understanding the IDS (Detailed version)</a></li>
+<li> 5. <a href="https://internationaldataspaces.org/wp-content/uploads/IDSA-White-Paper-IDSA-Rule-Book.pdf">IDSA Rule Book</a></li>
+
+In addition to these, you may also want to check various documents on IDSA website such as <a href="https://internationaldataspaces.org/publications/most-important-documents/">Most Important Documents</a></li> and/or <a href="https://internationaldataspaces.org/publications/papers-studies/">White Papers, Position Papers, Studies & External Papers</a></li>
+</ul>
+</details>
+
+
 
 # What is Inside? 
 
@@ -64,6 +80,7 @@ You can find the latest version of [IDS-RAM on IDSA Website](https://internation
    Open Source implementation of IDS DAPS (Dynamic Attribute Provisioning Service)
    
 
+
 ## Components
    **AppStore** is a logical extension of the Broker concept to store, search and provide data apps for the IDS ecosystem. It contains information about the availability of data apps and their metadata. 
    
@@ -85,7 +102,9 @@ The Identity Provider is responsible for issuing technical identities to parties
   * **ParIS** is the participant information system, which is part of the Identity Provider, where the attributes of participants are registered in, stored and maintained. The IDS Participants need to present a set of information about themselves and the commonly shared attributes must be understandable by any IDS component and is therefore defined in the IDS Information Model. 
 
 **MetaDataBroker** is an intermediary that stores and manages information about the data sources available in the IDS. It is non-exclusive as multiple Brokers may coexist (e.g. for different application domains or sub-user groups within one data space). The activities of operator of the metadata broker, referred to as the Broker Service Provider mainly focus on receiving and providing metadata.
-   
+
+
+
 ## Communication
 The IDSCP (IDS Communication Protocol) establishes a secure peer-to-peer connection that provides mutual remote attestation and guarantees confidentiality, integrity, authenticity and perfect forward secrecy. It is designed to be very modular and thus flexible regarding the underlying communication channels and mechanisms for remote attestation. In the Communication folder, you will find more information and relevant files on: 
   * Message Structure/Format
@@ -94,11 +113,14 @@ The IDSCP (IDS Communication Protocol) establishes a secure peer-to-peer connect
   * IDSCP
   * IDS-LDP (IDS Label Distribution Protocol)
 
+
+
 ## IDS Information Model
 The Information Model defines a domain-agnostic lingua franca of the International Data Spaces. It constitutes a central agreement shared by its participants and components, facilitating compatibility and interoperability. It primarily aims at the description, publication and discovery of data products and data processing software within the International Data Spaces and implements the IDS reference architecture as an extensible, machine readable and technology independent data model.
 
 [InformationModel Repository](https://github.com/International-Data-Spaces-Association/InformationModel)
    
+
 
 ## UsageControl
 Data usage control in the IDS basically works by attaching data usage policy information to data being exchanged and continuously controlling the way data is processed, aggregated, or forwarded to other endpoints. Data usage policies support developers and administrators in setting up correct data flows. At runtime, data usage control enforcement prevents IDS Connectors from handling data in an undesired way. Thus, data usage control is both a tool for system integrators to ensure they are not building an architecture that violates security requirements, and an audit mechanism providing evidence of compliant data usage.
@@ -106,10 +128,12 @@ Data usage control in the IDS basically works by attaching data usage policy inf
 More information on data usage control in IDS can be found in the position paper [Usage Control in the International Data Spaces](https://internationaldataspaces.org/wp-content/uploads/IDSA-Position-Paper-Usage-Control-in-the-IDS-V3.0.pdf)
 
 
-## Glossary: file with all relevant IDS terms
-    -   shortcuts: file with all shortcuts
+## Glossary
+In this folder, you will find the file with all relevant IDS terms along with their descriptions.
+
 
 ## Handbook
 
-## Resources:
-    -   IDS-G-Logo
+
+## Resources
+This folder contains other resources such as logos and templates.

@@ -18,7 +18,6 @@ Reference Architecture Model of International Data Spaces (IDS-RAM) sets the sta
    **Repositories**
    [IDS-Connector-Framework](https://github.com/International-Data-Spaces-Association/IDS-Connector-Framework)
    
-   
    [IDS-ConfigurationManager](https://github.com/International-Data-Spaces-Association/IDS-ConfigurationManager)
    [IDS-ConfigurationManager-UI](https://github.com/International-Data-Spaces-Association/IDS-ConfigurationManager-UI)
    [IDS-Enterprise-Integration-Connector](https://github.com/International-Data-Spaces-Association/IDS-Enterprise-Integration-Connector)

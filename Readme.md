@@ -46,8 +46,8 @@ You can find the latest version of [IDS-RAM on IDSA Website](https://internation
    implements the IDS reference architecture as an extensible, machine readable and technology independent data model.
    
    
-   [Java-Representation-of-IDS-Model](https://github.com/International-Data-Spaces-Association/Java-Representation-of-IDS-Information-Model)
-   
+   [Java-Representation-of-IDS-Information-Model](https://github.com/International-Data-Spaces-Association/Java-Representation-of-IDS-Information-Model)
+   is the representation of IDS Information Model in Java.
    
    [Trusted-Connector](https://github.com/International-Data-Spaces-Association/trusted-connector)
    is IoT edge platform "Trusted Connector" of the International Data Spaces. Based on Apache Karaf, includes Camel message routing, a Camel component for remote attestation with other connectors, and a management web consol

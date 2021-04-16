@@ -8,7 +8,7 @@ Anybody who is interested in expressing their ideas and/or would like to be part
 ## What is Inside? 
 
 ### Architecture/Overview
-Praesent et mi ut libero vehicula vehicula. Cras dignissim purus lacus, condimentum maximus dui pulvinar at. In hac habitasse platea dictumst. Aenean vehicula orci sed diam sagittis, eget vestibulum massa fringilla. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras at purus nec erat pretium pretium at nec nisl. Proin lacinia sem et felis rhoncus pretium. Morbi tempus tristique metus.
+Reference Architecture Model of International Data Spaces (IDS-RAM) sets the standard for building data-driven ecosystems, products and services. Here is where you will find everything you need to know to get started. IDS-RAM comprises the standards for secure and sovereign data exchange, certification and governance for across Europe and around the world. 
 
 references: links to external specs
 relevants: links to relevant IDS-documents

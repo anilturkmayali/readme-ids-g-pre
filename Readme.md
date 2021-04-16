@@ -1,13 +1,11 @@
-# IDS-G-pre
-
-## About the Project
+# About the Project
 This is the place where we can discuss and develop improvements in repositories of International Data Spaces. Our aim is to reach the highest level of quality via continous feedback, contributions, implementations and reviews from the community. As collective production, innovation through collaboration and transparent working environment are among the key values of IDSA, we endeavor to provide a common ground to discuss, democratize and enhance the ongoing development processes by following the Open Source path.
 
 Anybody who is interested in expressing their ideas and/or would like to be part of IDS developers community, are welcome to join and contribute.
 
-## What is Inside? 
+# What is Inside? 
 
-### Architecture/Overview
+## Architecture/Overview
 Reference Architecture Model of International Data Spaces (IDS-RAM) sets the standard for building data-driven ecosystems, products and services. Here is where you will find everything you need to know to get started. IDS-RAM comprises the standards for secure and sovereign data exchange, certification and governance for across Europe and around the world. 
 
 You can find the latest version of [IDS-RAM on IDSA Website](https://internationaldataspaces.org/publications/most-important-documents/) along with [white papers](https://internationaldataspaces.org/publications/papers-studies/) listing the specifications of IDS components.

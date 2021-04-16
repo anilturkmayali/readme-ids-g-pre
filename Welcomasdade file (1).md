@@ -10,18 +10,24 @@ Anybody who is interested in expressing their ideas and/or would like to be part
 ### Architecture/Overview
 Reference Architecture Model of International Data Spaces (IDS-RAM) sets the standard for building data-driven ecosystems, products and services. Here is where you will find everything you need to know to get started. IDS-RAM comprises the standards for secure and sovereign data exchange, certification and governance for across Europe and around the world. 
 
-references: links to external specs
-relevants: links to relevant IDS-documents
-repositories: links for repos for different implementations
-
    **Useful Links**
    IDS Reference Architecture Model
    Specification: IDS Meta Data Broker
    Specification: IDS Clearing House
 
    **Repositories**
-   A
-   B
+   [IDS-Connector-Framework](https://github.com/International-Data-Spaces-Association/IDS-Connector-Framework)
+   [IDS-ConfigurationManager](https://github.com/International-Data-Spaces-Association/IDS-ConfigurationManager)
+   [IDS-ConfigurationManager-UI](https://github.com/International-Data-Spaces-Association/IDS-ConfigurationManager-UI)
+   [IDS-Enterprise-Integration-Connector](https://github.com/International-Data-Spaces-Association/IDS-Enterprise-Integration-Connector)
+   [metadata-broker-open-core](https://github.com/International-Data-Spaces-Association/metadata-broker-open-core)
+   [IDS-Messaging-Services](https://github.com/International-Data-Spaces-Association/IDS-Messaging-Services)
+   [InformationModel](https://github.com/International-Data-Spaces-Association/InformationModel)
+   [DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
+   [DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
+   [DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
+   [DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
+   
    C
 
 ### Components
